@@ -46,7 +46,7 @@ public class KnightInstaller implements Runnable {
 
     public KnightInstaller(Progress pr) {
         this.pr = pr;
-        this.destination = new File(System.getProperty("user.home") + "/.minecraft");
+        this.destination = new File(System.getProperty("user.home") + "/instances/spiral");
         this.spiral = new File(destination, "spiral");
         this.getdown = new File(spiral, "getdown-pro.jar");
     }
