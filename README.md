@@ -25,7 +25,7 @@ Spiral Knights installer for PojavLauncher_iOS
 
 9 - Start Pojav, click menu on the top left, "Profiles", "Game directory", select "spiral"
 
-10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Auto"
+10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Zink"
 
 ## BUG FIX
 
