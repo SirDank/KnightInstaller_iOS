@@ -13,7 +13,7 @@ Spiral Knights installer for PojavLauncher_iOS
 
 4 - Install with [Altstore](https://altstore.io/) / [SideStore](https://sidestore.io/) / [Trollstore](https://trollstore.app/)
 
-# - MAKE SURE YOU ARE IN THE (DEFAULT) GAME DIRECTORY / PROFILE BEFORE RUNNING STEPS 5, 6, 7
+## - MAKE SURE YOU ARE IN THE (DEFAULT) GAME DIRECTORY / PROFILE BEFORE RUNNING STEPS 5, 6, 7
 
 5 - Start Pojav, click menu on the top left, click "Install .jar"
 
@@ -27,7 +27,7 @@ Spiral Knights installer for PojavLauncher_iOS
 
 10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Auto"
 
-# (BUG FIX)
+## (BUG FIX)
 
 10.1 - Change name of the profile to "Spiral Knights 2", Click "Done" on the top left not bottom right!
 
