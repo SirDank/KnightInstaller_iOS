@@ -23,9 +23,17 @@ Spiral Knights installer for PojavLauncher_iOS
 
 9 - Start Pojav, click menu on the top left, "Profiles", "Game directory", select "spiral"
 
-10 - Switch profile to "Spiral Knights", Click "Play", "Add account", "Microsoft account" (required step) (Relaunch if you have a black screen)
+10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights"
 
-11 - After Spiral Knights launches and you see the "Your client needs to be updated" message, exit the app and repeat steps 5, 6, 7
+(BUG FIX)
+
+10.1 - Change name to "Spiral Knights 2", Click "Done" on the top left not bottom right!
+
+10.2 - Next to the "Play" button, Switch profile to "Spiral Knights 2"
+
+11 - Click "Play", "Add account", "Local account", Any username
+
+12 - After Spiral Knights launches and you see the "Your client needs to be updated" message, exit the app and repeat steps 5, 6, 7
 
 # Character Creation / Login [WORKING] ✅
 
