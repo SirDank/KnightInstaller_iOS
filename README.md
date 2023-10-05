@@ -27,7 +27,7 @@ Spiral Knights installer for PojavLauncher_iOS
 
 10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Auto"
 
-## (BUG FIX)
+## BUG FIX
 
 10.1 - Change name of the profile to "Spiral Knights 2", Click "Done" on the top left not bottom right!
 
@@ -39,4 +39,4 @@ Spiral Knights installer for PojavLauncher_iOS
 
 # Character Creation / Login [WORKING] ✅
 
-# Play Game [NOT WORKING] ❌
+# Play Game [WORKING] ✅
