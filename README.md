@@ -1,11 +1,16 @@
-# KnightInstaller_iOS
-Spiral Knights installer for PojavLauncher_iOS
+Spiral Knights installer for [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)!
+
+Also check out [Knight Launcher](https://github.com/lucas-allegri/KnightLauncher/releases)!
+
+Also check out [Knight Launcher Modpack](https://github.com/SirDank/Spiral-Knights-Modpack)!
+
+# Quick Install Method [TESTING] ⚠️
 
 # Installation [WORKING] ✅
 
 ## Steps:
 
-1 - Download [KnightInstaller.jar](https://github.com/SirDank/KnightInstaller_iOS/releases)
+1 - Download [KnightInstaller_iOS.jar](https://github.com/SirDank/KnightInstaller_iOS/releases)
 
 2 - Download the latest successful development build of [net.kdt.pojavlauncher.ipa](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions/)
 
@@ -40,3 +45,5 @@ Spiral Knights installer for PojavLauncher_iOS
 # Character Creation / Login [WORKING] ✅
 
 # Play Game [WORKING] ✅
+
+# Custom Touch / Gamepad Controls [TESTING] ⚠️
