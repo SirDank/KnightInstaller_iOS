@@ -4,6 +4,8 @@ Also check out [Knight Launcher](https://github.com/lucas-allegri/KnightLauncher
 
 Also check out [Knight Launcher Modpack](https://github.com/SirDank/Spiral-Knights-Modpack)!
 
+# IOS
+
 # Quick Install Method [TESTING] ⚠️
 
 # Installation [WORKING] ✅
@@ -47,3 +49,5 @@ Also check out [Knight Launcher Modpack](https://github.com/SirDank/Spiral-Knigh
 # Play Game [WORKING] ✅
 
 # Custom Touch / Gamepad Controls [TESTING] ⚠️
+
+# Android
