@@ -1,10 +1,10 @@
 Spiral Knights Install Guide for Mobile!
 - [PojavLauncher iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)!
-- [PojavLauncher Android](https://github.com/PojavLauncherTeam/PojavLauncher)
+- [PojavLauncher Android](https://github.com/PojavLauncherTeam/PojavLauncher)!
 
-Also check out [Knight Launcher](https://github.com/lucas-allegri/KnightLauncher/releases)!
-
-Also check out [Knight Launcher Modpack](https://github.com/SirDank/Spiral-Knights-Modpack)!
+Also check out:
+- [Knight Launcher](https://github.com/lucas-allegri/KnightLauncher/releases)!
+- [Knight Launcher Modpack](https://github.com/SirDank/Spiral-Knights-Modpack)!
 
 # IOS
 
