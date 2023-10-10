@@ -18,9 +18,9 @@ Also check out:
 
 2 - Download the latest successful development build of [net.kdt.pojavlauncher.ipa](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions/)
 
-3 - Transfer the files to your device using the "Documents" app over local wifi (available on App Store)
+3 - Transfer the files to your device using the "Documents" app over local wifi or using the SendAnywhere app (both of which are available on the App Store)
 
-4 - Install with [Altstore](https://altstore.io/) / [SideStore](https://sidestore.io/) / [Trollstore](https://trollstore.app/)
+4 - Install IPA using [Altstore](https://altstore.io/) / [SideStore](https://sidestore.io/) / [Trollstore](https://trollstore.app/)
 
 ## MAKE SURE YOU ARE IN THE (DEFAULT) GAME DIRECTORY / PROFILE BEFORE RUNNING STEPS 5, 6, 7
 
@@ -33,6 +33,10 @@ Also check out:
 8 - Repeat steps 5, 6, 7
 
 9 - Start Pojav, click menu on the top left, "Profiles", "Game directory", select "spiral"
+
+9.1 - OPTIONAL: Click menu on the top left, "Settings", "Control customization", disable "Hide controls when hardware is connected", enable "Virtual mouse"
+
+9.2 - OPTIONAL: Click menu on the top left, "Settings", "Java Tweaks", Enable "Auto RAM"
 
 10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Zink"
 
@@ -48,8 +52,8 @@ Also check out:
 
 # Character Creation / Login [WORKING] ✅
 
-# Play Game [WORKING] ✅
+# Play Game [WORKING WITH MINOR VISUAL BUGS] ✅
 
-# Custom Touch / Gamepad Controls [TESTING] ⚠️
+# Custom Touch / Gamepad Controls [UNFINISHED] ⚠️
 
 # Android

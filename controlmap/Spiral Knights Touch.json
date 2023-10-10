@@ -1,0 +1,124 @@
+{
+  "scaledAt" : 100,
+  "mDrawerDataList" : [
+
+  ],
+  "mControlDataList" : [
+    {
+      "width" : 80,
+      "displayInMenu" : true,
+      "bgColor" : 1291845632,
+      "opacity" : 1,
+      "dynamicX" : "0.436280  * ${screen_width}",
+      "displayInGame" : true,
+      "keycodes" : [
+        -1,
+        0,
+        0,
+        0
+      ],
+      "height" : 30,
+      "dynamicY" : "0.005332  * ${screen_height}",
+      "cornerRadius" : 0,
+      "name" : "Keyboard",
+      "strokeWidth" : 0
+    },
+    {
+      "isToggle" : false,
+      "name" : "GUI",
+      "width" : 80,
+      "displayInMenu" : true,
+      "bgColor" : 1291845632,
+      "opacity" : 1,
+      "dynamicX" : "0.176910  * ${screen_width}",
+      "displayInGame" : true,
+      "keycodes" : [
+        -2,
+        0,
+        0,
+        0
+      ],
+      "height" : 30,
+      "dynamicY" : "0.997334  * ${screen_height} - ${height}",
+      "passThruEnabled" : false,
+      "strokeWidth" : 0,
+      "isSwipeable" : false,
+      "cornerRadius" : 0
+    },
+    {
+      "width" : 80,
+      "displayInMenu" : true,
+      "bgColor" : 1291845632,
+      "opacity" : 1,
+      "dynamicX" : "0.844829  * ${screen_width} - ${width}",
+      "displayInGame" : true,
+      "keycodes" : [
+        -5,
+        0,
+        0,
+        0
+      ],
+      "height" : 30,
+      "dynamicY" : "1.000000  * ${screen_height} - ${height}",
+      "cornerRadius" : 0,
+      "name" : "Mouse",
+      "strokeWidth" : 0
+    },
+    {
+      "isToggle" : false,
+      "name" : "Chat",
+      "width" : 80,
+      "displayInMenu" : true,
+      "bgColor" : 1291845632,
+      "opacity" : 1,
+      "dynamicX" : "0.436280  * ${screen_width} + (px(80.000000) \/ 100.000000 * ${preferred_scale}) + ${margin}",
+      "displayInGame" : true,
+      "keycodes" : [
+        257,
+        0,
+        0,
+        0
+      ],
+      "height" : 30,
+      "dynamicY" : "0.005332  * ${screen_height}",
+      "passThruEnabled" : false,
+      "strokeWidth" : 0,
+      "isSwipeable" : false,
+      "cornerRadius" : 0
+    },
+    {
+      "width" : 80,
+      "displayInMenu" : true,
+      "bgColor" : 1291845632,
+      "opacity" : 1,
+      "dynamicX" : "0.436280  * ${screen_width} - ${width} - ${margin}",
+      "displayInGame" : true,
+      "keycodes" : [
+        256,
+        0,
+        0,
+        0
+      ],
+      "height" : 30,
+      "dynamicY" : "0.005332  * ${screen_height}",
+      "cornerRadius" : 0,
+      "name" : "Esc",
+      "strokeWidth" : 0
+    }
+  ],
+  "mJoystickDataList" : [
+    {
+      "height" : 100,
+      "forwardLock" : false,
+      "dynamicX" : "0.074957  * ${screen_width}",
+      "displayInMenu" : true,
+      "width" : 100,
+      "strokeColor" : 4294967295,
+      "bgColor" : 1291845632,
+      "displayInGame" : true,
+      "opacity" : 1,
+      "dynamicY" : "0.869339  * ${screen_height} - ${height}"
+    }
+  ],
+  "version" : 6
+}
