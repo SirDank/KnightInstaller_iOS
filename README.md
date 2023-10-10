@@ -56,4 +56,6 @@ Also check out:
 
 # Custom Touch / Gamepad Controls [UNFINISHED] ⚠️
 
+- [Download](https://github.com/SirDank/Spiral-Knights-Mobile/tree/master/controlmap)
+
 # Android
