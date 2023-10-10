@@ -14,7 +14,7 @@ Also check out:
 
 ## Steps:
 
-1 - Download [KnightInstaller_iOS.jar](https://github.com/SirDank/KnightInstaller_iOS/releases)
+1 - Download [KnightInstaller_iOS.jar](https://github.com/SirDank/Spiral-Knights-Mobile/releases)
 
 2 - Download the latest successful development build of [net.kdt.pojavlauncher.ipa](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions/)
 
@@ -34,17 +34,17 @@ Also check out:
 
 9 - Start Pojav, click menu on the top left, "Profiles", "Game directory", select "spiral"
 
-9.1 - OPTIONAL: Click menu on the top left, "Settings", "Control customization", disable "Hide controls when hardware is connected", enable "Virtual mouse"
-
-9.2 - OPTIONAL: Click menu on the top left, "Settings", "Java Tweaks", Enable "Auto RAM"
-
 10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Zink"
 
 ## BUG FIX
 
-10.1 - Change name of the profile to "Spiral Knights 2", Click "Done" on the top left not bottom right!
+10.1 - Change name of the profile to "Spiral Knights New", Click "Done" on the top left not bottom right!
 
-10.2 - Next to the "Play" button, Switch profile to "Spiral Knights 2"
+10.2 - Switch to the "Spiral Knights New" profile
+
+10.3 - OPTIONAL: Click menu on the top left, "Settings", "Control customization", disable "Hide controls when hardware is connected", enable "Virtual mouse"
+
+10.4 - OPTIONAL: Click menu on the top left, "Settings", "Java Tweaks", Enable "Auto RAM"
 
 11 - Click "Play", "Add account", "Local account", Any username
 
@@ -57,5 +57,3 @@ Also check out:
 # Custom Touch / Gamepad Controls [UNFINISHED] ⚠️
 
 - [Download](https://github.com/SirDank/Spiral-Knights-Mobile/tree/master/controlmap)
-
-# Android
