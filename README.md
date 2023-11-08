@@ -34,21 +34,25 @@ Also check out:
 
 10 - On the "Profiles" tab, under "PROFILES IN THIS INSTANCE", select "Spiral Knights", "Renderer", "Zink"
 
+# Fast Login [WORKING] ✅
+
+10.1 - OPTIONAL: Select the "Spiral Knights" profile again, add the following to the beginning of "JVM Launch arguments": `-Dusername=USERNAME -Dpassword=PASSWORD -Dknight=KNIGHTNAME -XX:+DisableExplicitGC -XX:+UseG1GC`, replace USERNAME, PASSWORD, and KNIGHTNAME with your username, password, and knight name respectively
+
 ## BUG FIX
 
-10.1 - Change name of the profile to "Spiral Knights New", Click "Done" on the top left not bottom right!
+10.2 - Change name of the profile to "Spiral Knights New", Click "Done" on the top left not bottom right!
 
-10.2 - Switch to the "Spiral Knights New" profile
+10.3 - Switch to the "Spiral Knights New" profile
 
-10.3 - OPTIONAL: Click menu on the top left, "Settings", "Control customization", disable "Hide controls when hardware is connected", enable "Virtual mouse"
+10.4 - OPTIONAL: Click menu on the top left, "Settings", "Control customization", disable "Hide controls when hardware is connected", enable "Virtual mouse"
 
-10.4 - OPTIONAL: Click menu on the top left, "Settings", "Java Tweaks", Enable "Auto RAM"
+11 - Click menu on the top left, "Settings", "Java Tweaks", Enable "Auto RAM"
 
-11 - Click "Play", "Add account", "Local account", Any username
+12 - Click "Play", "Add account", "Local account", Any username
 
-12 - After Spiral Knights launches and you see the "Your client needs to be updated" message, exit the app, switch back to default game directory / profile, repeat steps 5, 6, 7
+13 - After Spiral Knights launches and you see the "Your client needs to be updated" message, exit the app, switch back to default game directory / profile, repeat steps 5, 6, 7
 
-# Character Creation / Login [WORKING] ✅
+# Knight Creation / Login [WORKING] ✅
 
 # Play Game [WORKING WITH MINOR VISUAL BUGS] ✅
 
