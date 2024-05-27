@@ -22,11 +22,13 @@ Also check out:
 
 ## MAKE SURE YOU ARE IN THE (DEFAULT) GAME DIRECTORY / PROFILE BEFORE RUNNING STEPS 5, 6, 7
 
-5 - Start Pojav, click menu on the top left, click "Install .jar"
+5 - Start Pojav, click menu on the top left, click "Execute .jar"
 
 6 - Go to the jar file's location (Documents if you used that method) and select it
 
 7 - Click "Start", wait for it to show "All done!", click "Exit"
+
+## MAKE SURE YOU ARE IN THE (DEFAULT) GAME DIRECTORY / PROFILE BEFORE RUNNING STEPS 5, 6, 7
 
 8 - Repeat steps 5, 6, 7
 
@@ -78,3 +80,4 @@ Also check out:
 - delete "rsrc.zip"
 
 # Android Tutorial [UNFINISHED] ⚠️
+
