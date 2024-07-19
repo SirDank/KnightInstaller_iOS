@@ -6,9 +6,41 @@ Also check out:
 - [Knight Launcher](https://github.com/lucas-allegri/KnightLauncher/releases)!
 - [Knight Launcher Modpack](https://github.com/SirDank/Spiral-Knights-Modpack)!
 
-# IOS Tutorial
+# Android Tutorial
 
 # Installation [WORKING] ✅
+
+## Steps:
+
+1 - Download [KnightInstaller_Android.jar](https://github.com/SirDank/Spiral-Knights-Mobile/releases)
+
+2 - Download and install the latest release of pojav via [Google Play Store](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch) or [Automatic Builds](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
+
+3 - Transfer the files to your device
+
+4 - Start Pojav, click "Execute a .jar"
+
+5 - Go to the jar file's location and select it
+
+6 - Click "Mouse" to enable it
+
+7 - Click "Start", wait for it to show "All done!", click "Exit"
+
+8 - Repeat steps 4, 5, 6, 7
+
+9 - Click up arrow near play button, select "Spiral Knights"
+
+10 - Click "Play", "Local Account", input any username, "Login", click "Play"
+
+11 - Wait for the game to load and then uncheck "Login as Guest"
+
+12 - "Options", "Video", Graphics Quality: "Low", "Edit Addvanced", check "Compatibility Mode" and "Cull Transients", "OK", "Quit"
+
+13 - Repeat steps 4, 5, 6, 7
+
+# IOS Tutorial
+
+# Installation [NOT WORKING] ❌
 
 ## Steps:
 
@@ -78,6 +110,3 @@ Also check out:
 - delete the "rsrc" folder
 - unzip "rsrc.zip"
 - delete "rsrc.zip"
-
-# Android Tutorial [UNFINISHED] ⚠️
-
